@@ -2,7 +2,7 @@
 Smart Gym Management System Based on Machine Learning For Personalized Fitness
 -Ragulan 20220768
  
-\n##Age: 
+Age:
 Gender: ( Male Encoded as 1, assuming 0 is Female)
 Weight: In kg
 Height: In m
